@@ -12,6 +12,13 @@ body {
     color: #181717;
 }
 
+h1 {
+    font-family: Spirax, Arial, sans-serif;
+    color: #fff;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
 #header {
     background-color: #131212;
     padding: 10px;
@@ -19,3 +26,4 @@ body {
     justify-content: space-between;
     display: flex;
 }
+
