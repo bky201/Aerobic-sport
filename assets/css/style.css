@@ -11,3 +11,11 @@ body {
     font-weight: 400;
     color: #181717;
 }
+
+#header {
+    background-color: #131212;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
