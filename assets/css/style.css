@@ -59,6 +59,20 @@ body {
 
 .active {
     background-color: aqua;
+    border-radius: 20%;
 }
+
+#img-one {
+    height: 450px;
+    width: 100%;
+    background-image: url("../images/background-image.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#img-one:hover {
+    background-image: url("../images/bottom-image.jpg");
+}
+
 
 
