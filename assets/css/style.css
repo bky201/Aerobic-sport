@@ -77,7 +77,34 @@ body {
     background-image: url("../images/bottom-image.jpg") ;
 }
 
+/* hero image cover text */
 
+#img-container {
+    position: relative;
+    overflow: hidden;
+  }
 
+  
+  #img-text {
+    font-family: "Open Sans", sans-serif;
+    background-color: rgba(231, 231, 221, 0.5);
+    font-size: 160%;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 20px;
+    left: 150px;
+    padding-left: 10px;
+    padding-top: 30px;
+    height: 100px;
+    width: 380px;
+    opacity: 0;
+    transition: opacity 0.5s;
+    color: #140313;
+}
+
+#img-container:hover #img-text {
+    opacity: 1;
+  }
 
 
