@@ -51,6 +51,12 @@ body {
     font-weight: bold;
 }
 
+#bar a:hover {
+    background-color: #fff;
+    color: blueviolet;
+    border-radius: 20%;
+}
+
 #img-one img {
     width: 50%;
     height: auto;
