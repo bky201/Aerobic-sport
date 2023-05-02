@@ -51,10 +51,16 @@ body {
     font-weight: bold;
 }
 
-#img-top img{
-    width: 100%;
-    max-width: 100%;
+#img-one img {
+    width: 50%;
     height: auto;
+    float: left;
+}
+
+#img-two img {
+    width: 50%;
+    height: auto;
+    float: right;
 }
 
 
