@@ -51,10 +51,10 @@ body {
     font-weight: bold;
 }
 
-#top-img {
+#img-top img{
     width: 100%;
-    background-size: cover;
-    
+    max-width: 100%;
+    height: auto;
 }
 
 
