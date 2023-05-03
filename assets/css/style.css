@@ -107,4 +107,45 @@ body {
     opacity: 1;
   }
 
+  /* inspiration */
+#inspiration {
+  height: 700px;
+}
+
+#top-left {
+  padding-top: 35px;
+  width: 45%;
+  height: 45%;
+  float: left;
+  align-items: center;
+  background-color: rebeccapurple;
+}
+
+#top-right {
+  padding-top: 35px;
+  width: 45%;
+  height: 45%;
+  float: right;
+  align-items: center;
+  background-color: red;
+}
+
+#bottom-left {
+  padding-top: 35px;
+  width: 45%;
+  height: 45%;
+  float: left;
+  align-items: center;
+  background-color: rosybrown;
+}
+
+#bottom-right {
+  padding-top: 35px;
+  width: 45%;
+  height: 45%;
+  float: right;
+  align-items: center;
+  background-color: gold;
+}
+
 
