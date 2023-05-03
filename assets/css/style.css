@@ -109,9 +109,14 @@ body {
 
   /* inspiration */
 #inspiration {
-  padding-top: 45px;
   width: 100%;
   height: 800px;
+}
+
+#inspiration h1 {
+  align-items: center;
+  text-align: center;
+  padding: 20px;
 }
 
 .container-top-left {
@@ -285,4 +290,75 @@ body {
   padding: 80px 20px 80px;
 }
 
+.bottom {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom h2 {
+  color: #12108a;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#one {
+  float: left;
+  width: 20%;
+  height: 250px;
+  background-color: aquamarine;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#two {
+  float: left;
+  width: 20%;
+  height: 250px;
+  background-color: rgb(255, 200, 127);
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#three {
+  float: left;
+  width: 20%;
+  height: 250px;
+  background-color: rgb(242, 255, 127);
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#four {
+  float: left;
+  width: 20%;
+  height: 250px;
+  background-color: rgb(255, 127, 244);
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#five {
+  float: right;
+  width: 20%;
+  height: 250px;
+  background-color: rgb(129, 127, 255);
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
