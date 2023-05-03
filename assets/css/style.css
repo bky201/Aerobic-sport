@@ -114,37 +114,37 @@ body {
 
 #top-left {
   padding-top: 35px;
-  width: 45%;
-  height: 45%;
-  float: left;
-  align-items: center;
+  width: 50%;
+  height: 300px;
+  float:left;
+  text-align: center;
   background-color: rebeccapurple;
 }
 
 #top-right {
   padding-top: 35px;
-  width: 45%;
-  height: 45%;
+  width: 50%;
+  height: 300px;
   float: right;
-  align-items: center;
+  text-align: center;
   background-color: red;
 }
 
 #bottom-left {
   padding-top: 35px;
-  width: 45%;
-  height: 45%;
+  width: 50%;
+  height: 300px;
   float: left;
-  align-items: center;
+  text-align: center;
   background-color: rosybrown;
 }
 
 #bottom-right {
   padding-top: 35px;
-  width: 45%;
-  height: 45%;
+  width: 50%;
+  height: 300px;
   float: right;
-  align-items: center;
+  text-align: center;
   background-color: gold;
 }
 
