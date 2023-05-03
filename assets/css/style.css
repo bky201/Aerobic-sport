@@ -109,43 +109,166 @@ body {
 
   /* inspiration */
 #inspiration {
+  padding-top: 45px;
   height: 700px;
 }
 
-#top-left {
-  padding-top: 35px;
+.container-top-left {
   width: 50%;
   height: 300px;
   float:left;
   text-align: center;
   background-color: rebeccapurple;
+  overflow: hidden;
 }
 
-#top-right {
-  padding-top: 35px;
+.container-top-right {
   width: 50%;
   height: 300px;
   float: right;
   text-align: center;
   background-color: red;
+  overflow: hidden;
 }
 
-#bottom-left {
-  padding-top: 35px;
+.container-bottom-left {
   width: 50%;
   height: 300px;
   float: left;
   text-align: center;
   background-color: rosybrown;
+  overflow: hidden;
 }
 
-#bottom-right {
-  padding-top: 35px;
+.container-bottom-right{
   width: 50%;
   height: 300px;
   float: right;
   text-align: center;
   background-color: gold;
+  overflow: hidden;
+}
+
+.container-top-left {
+  position: relative;
+  overflow: hidden;
+}
+.container-top-right {
+  position: relative;
+  overflow: hidden;
+}
+.container-bottom-left {
+  position: relative;
+  overflow: hidden;
+}
+.container-bottom-right {
+  position: relative;
+  overflow: hidden;
+}
+
+.container-top-left img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+} 
+.container-top-right img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+} 
+.container-bottom-left img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+} 
+.container-bottom-right img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+} 
+
+.container-text-top-left {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.8s;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.container-text-top-right {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.8s;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-text-bottom-left {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.8s;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-text-bottom-right {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.8s;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#inspiration h2 {
+  color: #fff;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#inspiration p {
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
+
+.container-top-left:hover .container-text-top-left {
+  opacity: 1;
+}
+
+.container-top-right:hover .container-text-top-right {
+  opacity: 1;
+}
+
+.container-bottom-left:hover .container-text-bottom-left {
+  opacity: 1;
+}
+
+.container-bottom-right:hover .container-text-bottom-right {
+  opacity: 1;
 }
 
 
