@@ -118,7 +118,6 @@ body {
   height: 300px;
   float:left;
   text-align: center;
-  background-color: rebeccapurple;
   overflow: hidden;
 }
 
@@ -127,7 +126,6 @@ body {
   height: 300px;
   float: right;
   text-align: center;
-  background-color: red;
   overflow: hidden;
 }
 
@@ -136,16 +134,14 @@ body {
   height: 300px;
   float: left;
   text-align: center;
-  background-color: rosybrown;
   overflow: hidden;
 }
 
-.container-bottom-right{
+.container-bottom-right {
   width: 50%;
   height: 300px;
   float: right;
   text-align: center;
-  background-color: gold;
   overflow: hidden;
 }
 
@@ -196,7 +192,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  opacity: 0;
+  opacity: 0.3;
   transition: opacity 0.8s;
   background-color: rgba(0, 0, 0, 0.5);
 }
@@ -209,7 +205,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  opacity: 0;
+  opacity: 0.3;
   transition: opacity 0.8s;
   background-color: rgba(0, 0, 0, 0.5);
 }
@@ -223,7 +219,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  opacity: 0;
+  opacity: 0.3;
   transition: opacity 0.8s;
   background-color: rgba(0, 0, 0, 0.5);
 }
@@ -237,22 +233,23 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  opacity: 0;
+  opacity: 0.3;
   transition: opacity 0.8s;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(196, 163, 163, 0.2);
 }
 
 #inspiration h2 {
-  color: #fff;
+  color: #12108a;
   font-size: 35px;
   text-align: center;
   font-weight: bold;
 }
 
 #inspiration p {
-  color: #fff;
+  color: #250317;
   font-size: 24px;
   text-align: center;
+  font-weight: bold;
 }
 
 .container-top-left:hover .container-text-top-left {
