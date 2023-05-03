@@ -185,9 +185,11 @@ body {
 } 
 
 .container-text-top-left {
+  display: flex;
+  flex-direction: column;
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 40%;
+  height: 40%;
   top: 0;
   left: 0;
   justify-content: center;
@@ -198,11 +200,13 @@ body {
   background-color: rgba(240, 240, 240, 0.5);
 }
 .container-text-top-right {
+  display: flex;
+  flex-direction: column;
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 40%;
+  height: 40%;
   top: 0;
-  left: 0;
+  right: 0;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -212,9 +216,11 @@ body {
 }
 
 .container-text-bottom-left {
+  display: flex;
+  flex-direction: column;
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 40%;
+  height: 40%;
   top: 0;
   left: 0;
   justify-content: center;
@@ -226,11 +232,13 @@ body {
 }
 
 .container-text-bottom-right {
+  display: flex;
+  flex-direction: column;
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 40%;
+  height: 40%;
   top: 0;
-  left: 0;
+  right: 0;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -256,21 +264,25 @@ body {
 .container-top-left:hover .container-text-top-left {
   opacity: 1;
   background-color: #fff;
+  padding: 80px 20px 80px;
 }
 
 .container-top-right:hover .container-text-top-right {
   opacity: 1;
   background-color: #fff;
+  padding: 80px 20px 80px;
 }
 
 .container-bottom-left:hover .container-text-bottom-left {
   opacity: 1;
   background-color: #fff;
+  padding: 80px 20px 80px;
 }
 
 .container-bottom-right:hover .container-text-bottom-right {
   opacity: 1;
   background-color: #fff;
+  padding: 80px 20px 80px;
 }
 
 
