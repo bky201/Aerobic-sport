@@ -110,6 +110,7 @@ body {
 #inspiration {
   width: 100%;
   height: 800px;
+  margin-top: 10px;
 }
 
 #inspiration h1 {
@@ -343,7 +344,6 @@ body {
 .bottom-container {
   width: 100%;
   height: 300px;
-  margin-bottom: 100px;
 }
 
 #schedule {
