@@ -26,10 +26,10 @@ body {
   letter-spacing: 5px;
   text-transform: uppercase;
   font-size: 35px;
-  }
+}
 
 #header a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 #bar {
@@ -45,69 +45,68 @@ body {
 }
 
 #bar a {
-    color: #fff;
-    font-size: 20px;
-    text-decoration: none;
-    font-weight: bold;
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 #bar a:hover {
-    background-color: #fff;
-    color: blueviolet;
-    border-radius: 20%;
+  background-color: #fff;
+  color: blueviolet;
+  border-radius: 20%;
 }
 
 .active {
-    background-color: aqua;
-    border-radius: 20%;
+  background-color: aqua;
+  border-radius: 20%;
 }
 
 /* Hero image */
 
 #img-one {
-    height: 450px;
-    width: 100%;
-    background-image: url("../images/background-image.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+  height: 450px;
+  width: 100%;
+  background-image: url("../images/background-image.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #img-one:hover {
-    background-image: url("../images/bottom-image.jpg") ;
+  background-image: url("../images/bottom-image.jpg");
 }
 
 /* hero image cover text */
 
 #img-container {
-    position: relative;
-    overflow: hidden;
-  }
+  position: relative;
+  overflow: hidden;
+}
 
-  
-  #img-text {
-    font-family: "Open Sans", sans-serif;
-    background-color: rgba(231, 231, 221, 0.9);
-    font-size: 160%;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    position: absolute;
-    bottom: 20px;
-    left: 150px;
-    padding-left: 10px;
-    padding-top: 30px;
-    height: 100px;
-    width: 380px;
-    opacity: 0;
-    transition: opacity 0.5s;
-    color: #140313;
+#img-text {
+  font-family: "Open Sans", sans-serif;
+  background-color: rgba(231, 231, 221, 0.9);
+  font-size: 160%;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  position: absolute;
+  bottom: 20px;
+  left: 150px;
+  padding-left: 10px;
+  padding-top: 30px;
+  height: 100px;
+  width: 380px;
+  opacity: 0;
+  transition: opacity 0.5s;
+  color: #140313;
 }
 
 #img-container:hover #img-text {
-    opacity: 1;
-  }
+  opacity: 1;
+}
 
-  /* inspiration */
+/* inspiration */
 #inspiration {
   width: 100%;
   height: 800px;
@@ -119,11 +118,45 @@ body {
   padding: 20px;
 }
 
+#img-top-left {
+  height: 450px;
+  width: 100%;
+  background-image: url("../images/about-img.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#img-top-right {
+  height: 450px;
+  width: 100%;
+  background-image: url("../images/girl-exercising-gym.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#img-bottom-left {
+  height: 450px;
+  width: 100%;
+  background-image: url("../images/people-having-fun-zumba-class.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#img-bottom-right {
+  height: 450px;
+  width: 100%;
+  background-image: url("../images/young-woman-stretching-before-workout.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .container-top-left {
   width: 50%;
   height: auto;
-  float:left;
+  float: left;
   text-align: center;
+
   overflow: hidden;
 }
 
@@ -172,22 +205,22 @@ body {
   width: 100%;
   height: auto;
   object-fit: cover;
-} 
+}
 .container-top-right img {
   width: 100%;
   height: auto;
   object-fit: cover;
-} 
+}
 .container-bottom-left img {
   width: 100%;
   height: auto;
   object-fit: cover;
-} 
+}
 .container-bottom-right img {
   width: 100%;
   height: auto;
   object-fit: cover;
-} 
+}
 
 .container-text-top-left {
   display: flex;
@@ -372,7 +405,7 @@ footer {
   text-align: center;
 }
 
-.social-media>li {
+.social-media > li {
   display: inline;
 }
 
@@ -380,7 +413,5 @@ footer {
   font-size: 160%;
   margin: 1%;
   padding: 4%;
-  color: aquamarine;
+  color: rgb(53, 14, 145);
 }
-
-
