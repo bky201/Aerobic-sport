@@ -362,3 +362,25 @@ body {
   align-items: center;
 }
 
+/* footer */
+
+footer {
+  height: 150px;
+}
+
+.social-media {
+  text-align: center;
+}
+
+.social-media>li {
+  display: inline;
+}
+
+.social-media i {
+  font-size: 160%;
+  margin: 1%;
+  padding: 4%;
+  color: aquamarine;
+}
+
+
