@@ -285,6 +285,10 @@ body {
   background-color: rgba(240, 240, 240, 0.5);
 }
 
+#inspiration {
+  width: 100%;
+  height: 977px;
+}
 #inspiration h2 {
   color: #12108a;
   font-size: 35px;
@@ -325,7 +329,6 @@ body {
 
 .bottom {
   width: 100%;
-  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -336,6 +339,16 @@ body {
   font-size: 35px;
   text-align: center;
   font-weight: bold;
+}
+.bottom-container {
+  width: 100%;
+  height: 300px;
+  margin-bottom: 100px;
+}
+
+#schedule {
+  width: 100%;
+  height: 250px;
 }
 
 #one {
@@ -398,18 +411,25 @@ body {
 /* footer */
 
 footer {
-  height: 150px;
+  background-color: darkgoldenrod;
+  width: 100%;
+  height: 100px;
+  color:#250317;
+  bottom: 0;
 }
 
-.social-media {
+.social-media-button {
   text-align: center;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 15px;
 }
 
-.social-media > li {
+.social-media-button > li {
   display: inline;
 }
 
-.social-media i {
+.social-media-button i {
   font-size: 160%;
   margin: 1%;
   padding: 4%;
