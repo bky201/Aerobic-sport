@@ -518,9 +518,8 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   width: 66%;
-  height: 400px;
+  height: 500px;
   float: left;
-  position: absolute;
 }
 .form-container {
   width: 33%;
