@@ -507,36 +507,46 @@ body {
 }
 
 /* Sign Up */ 
-
-.form-container {
-  background-image: url("../images/fitness-personal-trainer-guy-black.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 900px;
+.form {
+  width: 100%;
+  height: 500px;
 }
 
-.form-container .signup {
-  width: 450px;
-  bottom: 0;
+.form-img {
+  background-image: url("../images/fat_people.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 50%;
+  height: 400px;
+  float: left;
+  position: absolute;
+}
+.form-container {
+  width: 50%;
+  height: 400px;
+  float: right;
+}
+
+.signup {
+  width: 500px;
   color: black;
   background-color: rgba(98, 119, 22, 0.7);
   padding: 25px;
-  margin: 15px 15% 0 0;
-  border: 5px solid #df4ab9;
-  border-radius: 6px;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, .8);
+  border: 5px solid #e2a9d4;
+  border-radius: 7px;
+  box-shadow: 10px 20px 30px rgba(0, 0, 0, .8);
   padding: 25px;
-  left: 15%;
-  position: absolute;
+  margin-top: 10px;
 }
-
+/* 
 .signup h2 {
   text-align: center;
   margin-bottom: 20px;
-}
+} */
 
-.signup label {
+/* .signup label {
   display: flex;
   font-weight: bold;
   margin-bottom: 2px;
-}
+} */
