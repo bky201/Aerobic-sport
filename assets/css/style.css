@@ -434,26 +434,20 @@ body {
 .social-media {
   background-color: darkgoldenrod;
   color:#250317;
-  display: flex;
-  height: 80px;
+  height: auto;
 }
 
 .social-media-button {
   text-align: center;
-  width: 100%;
-  margin: 0 auto;
-  padding: 15px;
 }
 
-.social-media-button > li {
+.social-media-button>li {
   display: inline;
-  vertical-align: middle;
   margin-right: 3em;
 }
 
 .social-media-button i {
   font-size: 160%;
-  margin-right: 1%;
   padding: 4%;
   color: rgb(53, 14, 145);
 }
