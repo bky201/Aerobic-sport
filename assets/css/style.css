@@ -517,26 +517,27 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
-  width: 50%;
+  width: 66%;
   height: 400px;
   float: left;
   position: absolute;
 }
 .form-container {
-  width: 50%;
-  height: 350px;
+  width: 33%;
+  height: 150px;
   float: right;
 }
 
 .form-container .signup {
-  width: 400px;
+  width: 20em;
+  height: auto;
   color: black;
   background-color: rgba(98, 119, 22, 0.2);
   padding: 25px;
   border: 5px solid #e2a9d4;
   border-radius: 7px;
   box-shadow: 10px 20px 30px rgba(0, 0, 0, .8);
-  margin: 5px auto 25px;
+  margin: 5px auto 25px 0;
 }
 
 .signup h2 {
@@ -578,4 +579,21 @@ button[type="submit"]:hover {
   background-color: #09300a;
 }
 
+.form-container .location {
+  width: 66%;
+  height: 10px;
+}
 
+/* map */
+
+#map h2 {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(57, 179, 46);
+}
+
+#location {
+  height: 100%;
+  width: 100%;
+  border: none;
+}
