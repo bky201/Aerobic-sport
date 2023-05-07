@@ -64,6 +64,14 @@ margin-top: 1em;
 margin-right: 1em;
 }
 
+nav a {
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #000;
+}
+
 
 
 /* Hero image */
@@ -640,14 +648,10 @@ button[type="submit"]:hover {
   }
 
   nav a {
-    text-transform: uppercase;
     transition: opacity 160ms ease-in-out;
   }
 
-  nav a:hover {
-    color: #000;
-  }
-
+  
   .nav-toggle:checked ~ nav {
     transform: scale(1, 1);
   }
