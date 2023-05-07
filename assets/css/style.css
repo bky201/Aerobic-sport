@@ -66,10 +66,29 @@ margin-right: 1em;
 
 nav a {
   text-transform: uppercase;
+  position: relative;
+
+}
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 4px;
+  background: black;
+  position: absolute;
+  bottom: -0.4em;
+  left: 0;
+  right: 0;
+  transform: scale(0, 1);
+  transition: transform ease-in-out 280ms;
 }
 
 nav a:hover {
   color: #000;
+}
+
+nav a:hover::before {
+  transform: scale(1, 1);
 }
 
 
