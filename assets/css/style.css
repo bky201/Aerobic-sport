@@ -603,6 +603,18 @@ button[type="submit"]:hover {
   }
 }
 
+/* from medium screens size from 950px wide and down */
+@media screen and (max-width: 950px) {
+  #img-text {
+    left: 0;
+  }
+
+  /*  Gallery */
+.column {
+  column-count: 3;
+  }
+}
+
 /* from small screen sizes from 850px wide and down */
 @media screen and (max-width: 850px) {
 
@@ -678,5 +690,10 @@ button[type="submit"]:hover {
   .nav-toggle:checked ~ nav a {
     opacity: 1;
     transition: opacity 260ms ease-in-out 268ms;
+  }
+
+   /*  Gallery */
+.column {
+  column-count: 2;
   }
 }
