@@ -42,7 +42,7 @@ header {
 header a {
   color: white;
   text-decoration: none;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 
 nav {
@@ -221,8 +221,8 @@ nav a:hover::before {
   display: flex;
   flex-direction: column;
   position: absolute;
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
   top: 0;
   left: 0;
   justify-content: center;
@@ -300,26 +300,34 @@ nav a:hover::before {
 
 .container-top-left:hover .container-text-top-left {
   opacity: 1;
-  background-color: #fff;
-  padding: 80px 20px 80px;
+  width: 100%;
+  height: auto;
+  background-color: rgba(170, 145, 145, 0.5);
+  padding: 0 20px;
 }
 
 .container-top-right:hover .container-text-top-right {
   opacity: 1;
-  background-color: #fff;
-  padding: 80px 20px 80px;
+  width: 100%;
+  height: auto;
+  background-color: rgba(170, 145, 145, 0.5);
+  padding: 0 20px;
 }
 
 .container-bottom-left:hover .container-text-bottom-left {
   opacity: 1;
-  background-color: #fff;
-  padding: 80px 20px 80px;
+  width: 100%;
+  height: auto;
+  background-color: rgba(170, 145, 145, 0.5);
+  padding: 0 20px;
 }
 
 .container-bottom-right:hover .container-text-bottom-right {
   opacity: 1;
-  background-color: #fff;
-  padding: 80px 20px 80px;
+  width: 100%;
+  height: auto;
+  background-color: rgba(170, 145, 145, 0.5);
+  padding: 0 20px;
 }
 
 /* Available schedule */
