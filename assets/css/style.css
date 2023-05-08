@@ -106,14 +106,14 @@ nav a:hover::before {
 #img-one {
   height: 450px;
   width: 100%;
-  background-image: url("../images/background-image.jpg");
+  background-image: url("../images/background-image.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 #img-one:hover {
-  background-image: url("../images/bottom-image.jpg");
+  background-image: url("../images/bottom-image.webp");
 }
 
 /* hero image cover text */
@@ -191,7 +191,7 @@ nav a:hover::before {
 #img-top-left {
   height: 450px;
   width: 100%;
-  background-image: url("../images/about-img.jpg");
+  background-image: url("../images/about-img.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -199,7 +199,7 @@ nav a:hover::before {
 #img-top-right {
   height: 450px;
   width: 100%;
-  background-image: url("../images/girl-exercising-gym.jpg");
+  background-image: url("../images/girl-exercising-gym.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -207,7 +207,7 @@ nav a:hover::before {
 #img-bottom-left {
   height: 450px;
   width: 100%;
-  background-image: url("../images/people-having-fun-zumba-class.jpg");
+  background-image: url("../images/people-having-fun-zumba-class.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -215,7 +215,7 @@ nav a:hover::before {
 #img-bottom-right {
   height: 450px;
   width: 100%;
-  background-image: url("../images/young-woman-stretching-before-workout.jpg");
+  background-image: url("../images/young-woman-stretching-before-workout.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -503,7 +503,7 @@ nav a:hover::before {
 }
 
 .form-img {
-  background-image: url("../images/abs_30.jpg");
+  background-image: url("../images/signup.webp");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
