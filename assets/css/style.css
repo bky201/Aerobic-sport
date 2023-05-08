@@ -587,6 +587,12 @@ button[type="submit"]:hover {
   border: none;
 }
 
+/* Confirmation form */
+.text-center {
+  margin-top: 10rem ;
+  text-align: center;
+}
+
 /* Media query */
 
 /* from larger to medium screens size from 1200px wide and down */
