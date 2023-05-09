@@ -1,8 +1,25 @@
 # Aerobics Sport Club
 
 
-Aerobics Sport Club is a website that allows users to join the sport clube member on weekly bases. The sports clube activity differs from day to day, and the time schedule can be adjusted based on weekends and and regular days. The type of sport combines high-intensity choreographed routines with elements of gymnastics and dance. The individuals of the gym share a passion for this challenging and dynamic sport. The club member typically train everytime together, participate in competitions, and support each other in achieving their fitness and performance goals. Joining a sport aerobics club can be a great way to improve your fitness, build strength and endurance, and develop your skills in a fun and supportive environment. View the live site [here](https://bky201.github.io/Aerobic-sport/). 
+Aerobics Sport Club is a website that allows visitors to become regular members of the sport club. The activity of the sports club varies from day to day, and the time schedule may be adjusted based on weekends and regular days. The sport blends high-intensity planned performances with gymnastics and dance components. The gym members are all passionate about this demanding and energetic activity. Club members often exercise together at all times, compete together, and encourage one another in reaching their fitness and performance targets. Joining a sport aerobics group may help you improve your fitness, increase your strength and endurance, and develop your abilities in a fun and friendly atmosphere. View the live site [here](https://bky201.github.io/Aerobic-sport/). 
 
 
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/multi-mocup.png)
+
+## Functionalities
+
+### Main Page
+* Navigation Bar
+  * Navigation Bar links contain Home, Gallery and Sign up pages. A responsive sample on all devices is shown on above fig.
+  * This allows users to have quick access to the website's pages on any size device and to naviage through the pages.
+
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/nav.png)
+
+* Footer
+  * This will feature a number of social network icons that will open in new tabs. 
+ 
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/footer.png)
+
+* Favicon 
+  * A site favicon brand is a letter 's' with red background image which stands for the first letter in 'sport'.
