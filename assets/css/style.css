@@ -231,7 +231,6 @@ nav a:hover::before {
   left: 0;
   justify-content: center;
   align-items: center;
-  text-align: center;
   opacity: 0.1;
   transition: opacity 0.8s;
   background-color: rgba(240, 240, 240, 0.5);
@@ -240,13 +239,12 @@ nav a:hover::before {
   display: flex;
   flex-direction: column;
   position: absolute;
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
   top: 0;
   right: 0;
   justify-content: center;
   align-items: center;
-  text-align: center;
   opacity: 0.1;
   transition: opacity 0.8s;
   background-color: rgba(240, 240, 240, 0.5);
@@ -262,7 +260,6 @@ nav a:hover::before {
   left: 0;
   justify-content: center;
   align-items: center;
-  text-align: center;
   opacity: 0.1;
   transition: opacity 0.8s;
   background-color: rgba(240, 240, 240, 0.5);
@@ -272,13 +269,12 @@ nav a:hover::before {
   display: flex;
   flex-direction: column;
   position: absolute;
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
   top: 0;
   right: 0;
   justify-content: center;
   align-items: center;
-  text-align: center;
   opacity: 0.1;
   transition: opacity 0.8s;
   background-color: rgba(240, 240, 240, 0.5);
@@ -304,7 +300,6 @@ nav a:hover::before {
   width: 100%;
   height: auto;
   background-color: rgba(170, 145, 145, 0.5);
-  padding: 0 20px;
 }
 
 .container-top-right:hover .container-text-top-right {
@@ -312,7 +307,6 @@ nav a:hover::before {
   width: 100%;
   height: auto;
   background-color: rgba(170, 145, 145, 0.5);
-  padding: 0 20px;
 }
 
 .container-bottom-left:hover .container-text-bottom-left {
@@ -320,7 +314,6 @@ nav a:hover::before {
   width: 100%;
   height: auto;
   background-color: rgba(170, 145, 145, 0.5);
-  padding: 0 20px;
 }
 
 .container-bottom-right:hover .container-text-bottom-right {
@@ -328,7 +321,6 @@ nav a:hover::before {
   width: 100%;
   height: auto;
   background-color: rgba(170, 145, 145, 0.5);
-  padding: 0 20px;
 }
 
 /* Available schedule */
@@ -338,7 +330,7 @@ nav a:hover::before {
 
 .bottom-container h2 {
   color: #12108a;
-  font-size: 35px;
+  font-size: 1.2rem;
   text-align: center;
   align-items: center;
   font-weight: bold;
@@ -802,81 +794,39 @@ iframe {
   }
 
 .container-text-top-left {
-  display: flex;
-  flex-direction: column;
-  position: absolute;
   width: 30%;
   height: 30%;
-  top: 0;
-  left: 0;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  opacity: 0.1;
-  transition: opacity 0.8s;
-  background-color: rgba(240, 240, 240, 0.5);
 }
+
 .container-text-top-right {
-  display: flex;
-  flex-direction: column;
-  position: absolute;
-  width: 40%;
-  height: 40%;
-  top: 0;
-  right: 0;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  opacity: 0.1;
-  transition: opacity 0.8s;
-  background-color: rgba(240, 240, 240, 0.5);
+  width: 30%;
+  height: 30%;
 }
 
 .container-text-bottom-left {
-  display: flex;
-  flex-direction: column;
-  position: absolute;
-  width: 40%;
-  height: 40%;
-  top: 0;
-  left: 0;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  opacity: 0.1;
-  transition: opacity 0.8s;
-  background-color: rgba(240, 240, 240, 0.5);
-}
+  width: 30%;
+  height: 30%;
+ }
 
 .container-text-bottom-right {
-  display: flex;
-  flex-direction: column;
-  position: absolute;
-  width: 40%;
-  height: 40%;
-  top: 0;
-  right: 0;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  opacity: 0.1;
-  transition: opacity 0.8s;
-  background-color: rgba(240, 240, 240, 0.5);
+  width: 30%;
+  height: 30%;
 }
 
 #motivation h2 {
-  color: #12108a;
-  font-size: 35px;
+  font-size: 1.2rem;
   text-align: center;
-  font-weight: bold;
 }
 
 #motivation p {
-  color: #250317;
-  font-size: 24px;
-  text-align: center;
-  font-weight: bold;
+  font-size: 20px;
 }
+/* Available Schedule */
+.bottom-container h3 {
+  font-size: 1rem;
+}
+
+/*Gallery*/
 
   .column {
     column-count: 1;
