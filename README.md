@@ -10,6 +10,11 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ## Functionalities
 
 ### Main Page
+* Favicon 
+  * A site favicon brand is a letter 's' with red background image which stands for the first letter in 'sport'.
+
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/favicon.png)
+
 * Navigation Bar
   * Navigation Bar links contain Home, Gallery and Sign up pages. A responsive sample on all devices is shown on above fig.
   * This allows users to have quick access to the website's pages on any size device and to naviage through the pages.
@@ -21,5 +26,10 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
  
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/footer.png)
 
-* Favicon 
-  * A site favicon brand is a letter 's' with red background image which stands for the first letter in 'sport'.
+### Home Page
+*Web page hero image
+  * This will include two photos. The first is a static picture that appears instantly on page load, and the second appears when you point your mouse over the image.
+  * These images are to give the user a first impression about the website and  what it is about.
+  
+
+
