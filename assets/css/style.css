@@ -587,6 +587,10 @@ button[type="submit"]:hover {
   border: none;
 }
 
+iframe {
+  width: 100%;
+}
+
 /* Confirmation form */
 .text-center {
   margin-top: 10rem ;
