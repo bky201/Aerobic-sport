@@ -23,6 +23,7 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 
 * Footer
   * This will feature a number of social network icons that will open in new tabs. 
+  * These social media links make it convenient for visitors to connect with our club on various social platforms. This will allow users to engage with our social media accounts, follow our updates, and potentially share our content with their own network, thereby increasing brand exposure.
  
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/footer.png)
 
