@@ -82,6 +82,66 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 
 ### Design Section
 
+#### Home Page
+
+##### A
+##### B
+##### C
+
+#### Gallery
+##### A
+##### B
+
+#### Sign Up Page
+##### A
+##### B
+
+### Innovative tools and systems
+
+* Visual Studio Code
+* HTML
+*  CSS
+*  Git
+*  GitHub
+*  Favicon.io
+*  Font Awesome
+*  Tinyjpg
+
+## Testing
+
+### Responsiveness
+
+### Accessibility
+
+### Lighthouse 
+
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/Lighthouse.png)
+
+### Operational validation
+
+#### Navigation
+#### Form
+#### Social Media
+
+### Wedsite Validation Test 
+
+#### HTML Validator
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/html-validator.png)
+
+#### CSS Validator
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/css-validator.png)
+
+### Unfixed Bugs
+* A
+* B
+* C
+
+## Deployment
+
+
+
+
+
 
 
   
