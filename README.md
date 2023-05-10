@@ -116,7 +116,7 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 
 ### Lighthouse 
 
-[alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/Lighthouse.png)
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/Lighthouse.png)
 
 ### Operational validation
 
