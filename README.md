@@ -87,14 +87,16 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/signup-confirmation.png)
 
 ### Current functionalities
-* Responsive Layout
+* Device Responsive Layout
 * Gallery Collection
 * Sign up Page
+* Google Map
+* Social Media
 
 
 ### Remaining functionalities to be integrated
-* Idea-.....
-* Some points here...
+* Success Stories/Testimonials: Including a section dedicated to success stories or testimonials from existing Aerobics Club members. This provides social proof and motivates potential users by showcasing real experiences and positive outcomes achieved through the club's programs and activities.
+* Interactive Class Schedule: Adding an interactive class schedule to the web page, allowing users to view and sign up for upcoming aerobics classes. They can see the available time slots, instructors, and class descriptions, making it convenient for them to plan their participation.
 
 ### Design Section
 
