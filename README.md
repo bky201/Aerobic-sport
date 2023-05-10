@@ -40,15 +40,21 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 
 
 * Motivational content
+  * This section will offer athletes the inspiration and drive they need to start, and to improve their performance and to foster a competitive mindset.
+  * This content will let new users belief, and get motivated to join the Aerobics club, and maintain a positive attitude throughout their sporting journey.
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/motivational-image.png)
 
 * Schedule
+  * This will determined the plan that outlines clube activities and their allotted time slots.
+  * This will help the user to find their suitable time table and to adjust their schedule.
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/schedule.png)
 
 
 * 404 Page
+  * A 404-page not found is a user-friendly experience on websites, helping visitors understand that the requested content is unavailable or has been moved. 
+  * If a user attempts to access an unavailable link, a 404 page will be put in place to be displayed.
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/page-not-found.png)
 
@@ -56,6 +62,8 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ### Gallery Page
 
 * Photoes 
+  * The gallery will present the user with a collection of photographs showcasing Aerobics Club from different events, ensuring compatibility and responsiveness across all devices. It enables the user to conveniently filter the displayed content using categories accessible through a sub navigation menu.
+  * Users who have an interest in Aerobics Club will have the ability to choose specific items they want to see by selecting their preferred category. Hence the gallery being responsive, users can access and view the content seamlessly from any device they use.
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/gallery.png)
 
@@ -63,11 +71,18 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ### Sign Up Page
 
 * Sign Up Form
+  * The Aerobics Club membership will incorporate a sign-up form where users can enroll. The form will require the following fields inorder to be functional:
+    * First Name - required field, input-type a text
+    * Last Name - required field, input-type a text
+    * Email Address -required field, input-type is an email
+    * Password - required field, input-type is a password
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/signup-form.png)
 
 
 * Confirmation
+  * After the submission of the Sign Up form, users will be redirected to the confirmation.html page, where they will receive a message confirming the successful completion of their sign up form submission.
+  * This will enable users to join the Aerobics Club and acceess to various aspects such as club details, events, and general information.
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/signup-confirmation.png)
 
@@ -116,7 +131,7 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 
 ### Lighthouse 
 
-
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/lighthouse.png)
 
 ### Operational validation
 
