@@ -120,13 +120,21 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ### Innovative tools and systems
 
 * Visual Studio Code
+  * Visual Studio Code IDE tool was utilized in building the website. 
 * HTML
+  * The primary language utilized in constructing the Website's structure was HTML.
 *  CSS
+  * The styling of the Website was designed by utilizing an separate CSS file.
 *  Git
+  * The source code of the Website was regularly committed and pushed during its development using Git.  
 *  GitHub
+  * The source code of the website is accessible on GitHub, and it has been uploaded using Git Pages.  
 *  Favicon.io
+  * The favicon files were generated using https://favicon.io/favicon-converter/.  
 *  Font Awesome
+  * The social media links in the footer section were adorned with icons obtained from https://fontawesome.com/.  
 *  Tinyjpg
+  * To reduce the size of the images used throughout the website, https://tinyjpg.com/ was employed as main tool.  
 
 ## Testing
 
