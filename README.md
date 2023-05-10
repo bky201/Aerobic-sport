@@ -49,8 +49,26 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 
 * 404 Page
 
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/page-not-found.png)
 
 
+### Gallery Page
+
+* Photoes 
+
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/gallery.png)
+
+
+### Sign Up Page
+
+* Sign Up Form
+
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/signup-form.png)
+
+
+* Confirmation
+
+![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/signup-confirmation.png)
 
 
   
