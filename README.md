@@ -27,7 +27,7 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/footer.png)
 
 ### Home Page
-*Web page hero image
+* Web page hero image
   * This will include two photos. The first is a static picture that appears instantly on page load, and the second appears when you point your mouse over the image.
   * These images are to give the user a first impression about the website and  what it is about.
 
@@ -38,11 +38,11 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/secondary-image.png)
 
 
-*Motivational content
+* Motivational content
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/motivational-image.png)
 
-*Schedule
+* Schedule
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/schedule.png)
 
@@ -69,6 +69,19 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 * Confirmation
 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/signup-confirmation.png)
+
+### Current functionalities
+* Responsive Layout
+* Gallery Collection
+* Sign up Page
+
+
+### Remaining functionalities to be integrated
+* Idea-.....
+* Some points here...
+
+### Design Section
+
 
 
   
