@@ -598,24 +598,28 @@ iframe {
 
   .container-top-left {
     width: 100%;
+    height: 700px;
     text-align: center;
     overflow: hidden;
     position: relative;
   }
   .container-top-right {
     width: 100%;
+    height: 700px;
     text-align: center;
     overflow: hidden;
     position: relative;
   }
   .container-bottom-left {
     width: 100%;
+    height: 700px;
     text-align: center;
     overflow: hidden;
     position: relative;
   }
   .container-bottom-right {
     width: 100%;
+    height: 700px;
     text-align: center;
     overflow: hidden;
     position: relative;
