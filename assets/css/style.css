@@ -128,6 +128,7 @@ nav a:hover::before {
   position: relative;
   bottom: 100px;
   left: 100px;
+  width: 20%;
   padding-left: 10px;
   height: 100px;
   opacity: 0;
@@ -590,6 +591,11 @@ iframe {
 
 /* from larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+
+  #img-text {
+    width: 30%;
+  }
+
   .container-top-left {
     width: 100%;
     text-align: center;
@@ -654,6 +660,7 @@ iframe {
 @media screen and (max-width: 950px) {
   #img-text {
     left: 0;
+    width: auto;
   }
 
   /*  Gallery */
