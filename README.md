@@ -154,7 +154,7 @@ The website exhibits responsiveness across all screen sizes, ensuring that no im
 
 The Actual Output:
 
-The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views. Additional information regarding these unfixed bugs can be found in the Unfixed Bugs section.
+The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views. Additional information regarding these unfixed bugs can be found in the [Unfixed Bugs](#unfixed-bugs) section.
 
 ### Accessibility
 
@@ -187,9 +187,54 @@ Testing was conducted to verify that all navigation links on the respective page
 3. Sign Up navigation link - page is signup.html
  
 #### Form
+The functionality of the form on the Sign Up page was evaluated through testing to ensure it worked correctly with both accurate and inaccurate data inputs. The following test scenarios were included.
+
+Test Scenario One - Accurate Inputs:
+
+1. Navigate to [Aerobics Clube - Sign Up Page](https://bky201.github.io/Aerobic-sport/signup.html)
+2. Navigate to the sign up section of the webpage where the form is located, and proceed to enter the subsequent data into the designated fields:
+   * First Name: Jack
+   * Last Name: Wick
+   * Email: jack.wick@gmail.com
+   * password: ********
+3. Click Submit button
+4. After submitting the form, the user should be automatically directed to a confirmation page.
+
+The expected output:
+
+The form is successfully submitted without any warnings or errors, and the user is subsequently redirected to the confirmation page.
+
+The actual output:
+
+The website operated as intended, without encountering any errors or warnings, and smoothly redirected the user to the confirmation page.
+
+Test Scenario Two - Not providing the one of the Input field:
+
+1. Navigate to [Aerobics Clube - Sign Up Page](https://bky201.github.io/Aerobic-sport/signup.html)
+2. Navigate to the sign up section of the webpage where the form is located, and proceed to enter the subsequent data into the designated fields:
+
+   * First Name: 
+   * Last Name: Wick
+   * Email: jack.wick@gmail.com
+   * password: ********
+3. Click Submit button
+4. After submitting the form, the user should be automatically directed to a confirmation page.
+
+The expected output:
+
+When attempting to submit the form without filling in a required field, the form fails to submit and an error message is displayed to notify the user about the mandatory field that needs to be completed.
+
+The actual output:
+
+The website performed as intended, displaying an error message and preventing the submission of the form.
+
 #### Social Media
 
-### Wedsite Validation Test 
+The Font Awesome Social Media icons located in the footer were thoroughly tested to ensure their specific functionalities, that each icon opened in a new tab upon being clicked.
+
+During testing, it was confirmed that all icons functioned correctly by opening new tabs upon clicking on each icon.
+
+### Website Validation Test 
 
 #### HTML Validator
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/html-validator.png)
@@ -197,10 +242,10 @@ Testing was conducted to verify that all navigation links on the respective page
 #### CSS Validator
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/css-validator.png)
 
+<a name="unfixed-bugs"></a>
 ### Unfixed Bugs
-* A
-* B
-* C
+
+The website demonstrated responsive behavior across various devices, screen sizes, and orientations, ensuring proper functionality. However, a minor issue was encountered on small-sized screen devices where a small horizontal space appeared. Unfortunately, the bug could not be resolved within the given timeframe, but it will be addressed and fixed in a future release.
 
 ## Deployment
 
