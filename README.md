@@ -154,7 +154,7 @@ The website exhibits responsiveness across all screen sizes, ensuring that no im
 
 The Actual Output:
 
-The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views. Additional information regarding these unfixed bugs can be found in the [Unfixed Bugs](#unfixed-bugs) section.
+The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views. 
 
 ### Accessibility
 
@@ -242,10 +242,6 @@ During testing, it was confirmed that all icons functioned correctly by opening 
 #### CSS Validator
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/css-validator.png)
 
-<a name="unfixed-bugs"></a>
-### Unfixed Bugs
-
-The website demonstrated responsive behavior across various devices, screen sizes, and orientations, ensuring proper functionality. However, a minor issue was encountered on small-sized screen devices where a small horizontal space appeared. Unfortunately, the bug could not be resolved within the given timeframe, but it will be addressed and fixed in a future release.
 
 ## Deployment
 
@@ -281,8 +277,10 @@ To create a local copy of the repository code by cloning it just do the followin
 ## Credits
 
 * The images on the homepage were sourced from a specific website called [freepick](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=aerobic%20exercise&selection=1).
-* The hiddem hero image on the homepage were sourced from [Get Fit](https://dealerydo.com/what-are-aerobic-exercises/).
+* The hidden hero image on the homepage were sourced from [Get Fit](https://dealerydo.com/what-are-aerobic-exercises/).
 * Navigation bar responsive design were sourced from Youtube video [Create a responsive navigation nav with no JS!](https://www.youtube.com/watch?v=8QKOaTYvYUA&list=PL4-IK0AVhVjODqX-gN6KH68Tt_zrYiTwA&index=9).
+* The ReadMe page were sourced from a Code Institute Mentor [Gareth McGirr's Repo](https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md).
+* Code institute Mentor [Gareth McGirr](https://www.linkedin.com/in/gareth-mcgirr/), who has shown exceptional generosity and went above and beyond the expected level of assistance, has graciously supported me by providing valuable tips and guidance throughout the completion of this project. 
 
 
 
