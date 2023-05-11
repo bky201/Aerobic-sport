@@ -243,10 +243,6 @@ During testing, it was confirmed that all icons functioned correctly by opening 
 ![alt text](https://github.com/bky201/Aerobic-sport/blob/main/assets/images/css-validator.png)
 
 
-### Unfixed Bugs
-
-There was Unfixed Bugs. The website demonstrated responsive behavior across various devices, screen sizes, and orientations, ensuring proper functionality. 
-
 ## Deployment
 
 ### Repository
