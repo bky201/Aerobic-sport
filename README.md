@@ -123,24 +123,56 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
   * Visual Studio Code IDE tool was utilized in building the website. 
 * HTML
   * The primary language utilized in constructing the Website's structure was HTML.
-*  CSS
+* CSS
   * The styling of the Website was designed by utilizing an separate CSS file.
-*  Git
+* Git
   * The source code of the Website was regularly committed and pushed during its development using Git.  
-*  GitHub
+* GitHub
   * The source code of the website is accessible on GitHub, and it has been uploaded using Git Pages.  
-*  Favicon.io
+* Favicon.io
   * The favicon files were generated using https://favicon.io/favicon-converter/.  
-*  Font Awesome
+* Font Awesome
   * The social media links in the footer section were adorned with icons obtained from https://fontawesome.com/.  
-*  Tinyjpg
+* Tinyjpg
   * To reduce the size of the images used throughout the website, https://tinyjpg.com/ was employed as main tool.  
 
 ## Testing
 
-### Responsiveness
+### Web Page Responsiveness
+
+To guarantee responsiveness, all pages underwent thorough testing on screen sizes starting from 320px and above, following the criteria for responsive design. This testing was conducted on Chrome, Edge, and Firefox.
+The foloowing testing method was implemented.
+1. Launch a web browser and visit Aerobics Club.
+2. Access the developer tools by right-clicking and selecting "Inspect."
+3. Switch to the responsive mode and reduce the width to smaller size.
+4. Adjust the zoom level.
+5. Click and drag the responsive window to its maximum width.
+
+The Expected Output:
+
+The website exhibits responsiveness across all screen sizes, ensuring that no images appear stretched. There is no horizontal scroll present, and all elements are properly arranged without any overlapping.
+
+The Actual Output:
+
+The website generally performed as anticipated, although there were some issues specifically observed when switching to smaller screen views. Additional information regarding these unfixed bugs can be found in the Unfixed Bugs section.
 
 ### Accessibility
+
+Throughout the development process and during the final testing of the deployed website, the Wave Accessibility tool was employed to conduct accessibility testing. The testing procedure focused on verifying that the website adhered to the following criteria:
+
+1. Proper labeling and alternative text: All elements, such as form controls and images, were appropriately labeled and included descriptive alternative text.
+
+2. Color contrast: Sufficient color contrast was ensured between text and background colors to enhance readability for individuals with visual impairments.
+
+3. Keyboard accessibility: The website was tested to ensure that all interactive elements, menus, and navigation could be accessed and operated solely using a keyboard.
+
+4. Heading structure: The headings were organized in a logical hierarchy, aiding in content navigation and comprehension.
+
+5. Link accessibility: Links were clearly identified and provided meaningful text to indicate their purpose or destination.
+
+6. Form validation and error handling: Form inputs were validated and clear error messages were provided to assist users in correcting any input errors.
+
+By employing the Wave Accessibility tool and adhering to these criteria, the website aimed to enhance its accessibility and ensure a user-friendly experience for individuals with disabilities.
 
 ### Lighthouse 
 
@@ -149,6 +181,11 @@ Aerobics Sport Club is a website that allows visitors to become regular members 
 ### Operational validation
 
 #### Navigation
+Testing was conducted to verify that all navigation links on the respective pages directed users to the intended pages as per the design. This was accomplished by clicking on each navigation link on every page and confirming that the correct destination pages were reached.
+1. Home navigation link - page is index.html
+2. Gallery navigation link - page is gallery.html
+3. Sign Up navigation link - page is signup.html
+ 
 #### Form
 #### Social Media
 
